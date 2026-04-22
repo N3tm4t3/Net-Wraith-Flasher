@@ -1,4 +1,4 @@
-# ⚡ Net-Wraith Flasher
+#  Net-Wraith Flasher
 
 Control. Flash. Dominate.
 
@@ -14,20 +14,20 @@ Built for speed, simplicity, and control — plug in your device, click flash, a
 
 ---
 
-## 🚀 Features
+##  Features
 
-* ⚡ **One-click flashing** via browser
-* 🔌 **No drivers / no installs** (Web Serial API)
-* 🧩 **Multiple firmware support**
-* 📡 **ESP8266 optimized**
-* 🔄 **OTA-ready ecosystem**
-* 🎯 Clean cyberpunk UI
+*  **One-click flashing** via browser
+*  **No drivers / no installs** (Web Serial API)
+*  **Multiple firmware support**
+*  **ESP8266 optimized**
+*  **OTA-ready ecosystem**
+*  Clean cyberpunk UI
 
 ---
 
 ## 📦 Available Firmwares
 
-### 🟣 Net-Wraith
+###  Net-Wraith
 
 Core firmware powering the ecosystem
 
@@ -63,7 +63,7 @@ Educational & authorized testing only
 
 ---
 
-## 🖥️ How It Works
+##  How It Works
 
 1. Connect your ESP8266 via USB
 2. Open the flasher website
@@ -73,13 +73,13 @@ Educational & authorized testing only
 
 ---
 
-## 🌐 Live Flasher
+##  Live Flasher
 
-👉 https://n3tm4t3.github.io/Net-Wraith-Flasher
+ https://n3tm4t3.github.io/Net-Wraith-Flasher
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * HTML / CSS / JavaScript
 * Web Serial API
@@ -87,7 +87,7 @@ Educational & authorized testing only
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 * Tamagotchi implementation inspired by:
   https://github.com/anabolyc/Tamagotchi/tree/main
@@ -97,7 +97,7 @@ Educational & authorized testing only
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Want to improve Net-Wraith?
 
@@ -108,14 +108,14 @@ Want to improve Net-Wraith?
 
 ---
 
-## 🛡️ Disclaimer
+##  Disclaimer
 
 This project is intended for **educational and research purposes only**.
 Do not use any included tools on networks or devices without proper authorization.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Vansh Raj Singh**
 aka **N3TM4T3 (Net-Mate)**
